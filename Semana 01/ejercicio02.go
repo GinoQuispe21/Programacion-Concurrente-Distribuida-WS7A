@@ -6,6 +6,7 @@ import "fmt"
 
 var i int = 23
 
+// declaramos una constante global
 const igv float64 = 18.0
 
 func main() {
@@ -26,7 +27,7 @@ func main() {
 	edad = 20
 
 	// forma abreviada
-	d := 10
+	d := 10 // se declara y se inicializa mutuamente
 	fmt.Println(d)
 
 	nom1 := "Carlos"
