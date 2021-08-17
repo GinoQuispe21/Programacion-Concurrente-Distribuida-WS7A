@@ -1,2 +1,2 @@
-# Concurrent-Programming
-### Repository for the UPC Concurrent Programming course 🙈
+# Programación Concurrente y Distribuida
+### Repositorio publico para el curso de Programación Concurrente y Distribuida (sección WS7A) :tada: :see_no_evil:
